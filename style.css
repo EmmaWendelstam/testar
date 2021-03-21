@@ -1,0 +1,17 @@
+h1, p {
+    color: purple;
+}
+p {
+    color: red;
+}
+
+h1 :hover {
+color:blue;
+}
+
+#third.paragraph {
+    background-color: black;
+}
+input{
+    background-color: aqua;
+}
